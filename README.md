@@ -1,4 +1,4 @@
-# 💫 Anurag Maurya | MERN Stack Developer
+#  Anurag Maurya | MERN Stack Developer
 
 <div align="center">
 
@@ -10,16 +10,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 💡 Creative and detail-oriented **MERN Stack Developer**
 ⚡ I build **fast, scalable, and beautiful web apps**
-🎯 Focused on **clean UI, performance & real-world projects**
-🔥 Always exploring new tech & improving daily
+  Focused on **clean UI, performance & real-world projects**
+  Always exploring new tech & improving daily
 
 ---
 
-## 🚀 Tech Universe
+##  Tech Universe
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚡ Tech Breakdown
+##  Tech Breakdown
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+##  Contribution Snake (Animated)
 
 <div align="center">
 
@@ -94,19 +94,19 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
-<a href="#">
+<a href="https://www.linkedin.com/in/anurag-maurya07/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="#">
+<a href="https://portfolio-t5p3.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="#">
+<a href="anurag07122@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -114,7 +114,7 @@
 
 ---
 
-## ⚡ Dev Quote
+##  Dev Quote
 
 <div align="center">
 
