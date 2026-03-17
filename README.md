@@ -56,9 +56,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuragmaurya07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmaurya07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
+<img src="https://streak-stats.demolab.com?user=anuragmaurya07&theme=tokyonight&hide_border=true&background=00000000" />
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=anuragmaurya07&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -128,18 +128,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer" />
 
-⭐ From [Anurag Maurya](https://github.com/YOUR_USERNAME)
+⭐ From [Anurag Maurya](https://github.com/anuragmaurya07)
 
 </div>
 
----
 
-### 🚨 FINAL STEP
-
-👉 Replace **YOUR_USERNAME** everywhere with your real GitHub username
-👉 Add your real social links
-👉 Upload this as `README.md` in your profile repo
-
----
-
-🔥 Now your profile is **next-level, animated & recruiter-attracting** 🚀
